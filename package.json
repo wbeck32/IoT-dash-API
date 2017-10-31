@@ -1,0 +1,25 @@
+{
+  "name": "iot-dash-api",
+  "version": "1.0.0",
+  "description": "Using node.js to create an IoT dash button that makes an API call.",
+  "main": "index.js",
+  "dependencies": {
+    "dash-button": "^3.1.0",
+    "superagent": "^3.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scan": "dash-button scan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbeck32/IoT-dash-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbeck32/IoT-dash-API/issues"
+  },
+  "homepage": "https://github.com/wbeck32/IoT-dash-API#readme"
+}
